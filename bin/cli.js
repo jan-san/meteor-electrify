@@ -190,6 +190,7 @@ function parse_packager_options(){
     '--app-version',
     '--build-version',
     '--cache',
+    '--extra-resource',
     '--helper-bundle-id',
     '--ignore',
     '--prune',
